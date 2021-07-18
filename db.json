@@ -2,77 +2,77 @@
     "dicionario_financeiro": [
         {
             "palavra": "'Ações'",
-            "descricao": "'Ações representam uma fração do capital social de uma empresa. Ao comprar uma ação o investidor se torna sócio da empresa, ou seja, de um negócio.'",
+            "descricao": "' Ações representam uma fração do capital social de uma empresa. Ao comprar uma ação o investidor se torna sócio da empresa, ou seja, de um negócio. '",
             "url": "https://atrioinvestimentos.com.br/acoes/#:~:text=O%20que%20s%C3%A3o%20a%C3%A7%C3%B5es%3F,ou%20seja%2C%20de%20um%20neg%C3%B3cio.&text=Quem%20compra%20uma%20a%C3%A7%C3%A3o%20na,ser%20chamado%20de%20acionista%20minorit%C3%A1rio"
         },
         {
             "palavra": "Bitcoin",
-            "descricao": "'O bitcoin é uma moeda virtual – a primeira criada no mundo – e pode ser usado para a compra de serviços, produtos e quaisquer outros itens em estabelecimentos que aceitem ser pagos com ele.'",
+            "descricao": "' O bitcoin é uma moeda virtual – a primeira criada no mundo – e pode ser usado para a compra de serviços, produtos e quaisquer outros itens em estabelecimentos que aceitem ser pagos com ele. '",
             "url": "https://blog.nubank.com.br/o-que-e-bitcoin/"
         },
         {
             "palavra": "Bitstamp",
-           "descricao": "'Bitstamp é uma bolsa de bitcoin com sede em Luxemburgo. Ele permite a negociação entre moeda fiduciária, bitcoin e outras criptomoedas.'",
+           "descricao": "' Bitstamp é uma bolsa de bitcoin com sede em Luxemburgo. Ele permite a negociação entre moeda fiduciária, bitcoin e outras criptomoedas. '",
             "url":"https://en.wikipedia.org/wiki/Bitstamp."
         },
         {
             "palavra": "Blockchain.com",
-           "descricao": "'Blockchain.com é um serviço explorador de criptomoeda blockchain, bem como uma carteira de criptomoeda e uma bolsa de criptomoeda compatível com Bitcoin, Bitcoin Cash e Ethereum. Eles também fornecem gráficos de dados Bitcoin, estatísticas e informações de mercado.'",
+           "descricao": "' Blockchain.com é um serviço explorador de criptomoeda blockchain, bem como uma carteira de criptomoeda e uma bolsa de criptomoeda compatível com Bitcoin, Bitcoin Cash e Ethereum. Eles também fornecem gráficos de dados Bitcoin, estatísticas e informações de mercado. '",
             "url":"https://en.wikipedia.org/wiki/Blockchain.com"
         },
         {
             "palavra": "BM&F Bovesp",
-            "descricao": "'BM&F significa Bolsa de Mercadorias & Futuros. Ela também é chamada pelos jornais e noticiários de 'Bolsa de Valores' ou apenas de 'a Bolsa' . O seu maior objetivo é registrar e negociar operações financeiras. Nela, são negociadas por exemplo ações, cotas de fundos de investimento, preços de bens agrícolas e recursos naturais (commodities), além de títulos públicos e privados. A BM&FBovespa faz parte da principal Bolsa de Valores do Brasil, que já chegou a ter 9 Bolsas. Porém, nada se compara à sua relevância em território nacional.'",
+            "descricao": "' BM&F significa Bolsa de Mercadorias & Futuros. Ela também é chamada pelos jornais e noticiários de 'Bolsa de Valores' ou apenas de 'a Bolsa' . O seu maior objetivo é registrar e negociar operações financeiras. Nela, são negociadas por exemplo ações, cotas de fundos de investimento, preços de bens agrícolas e recursos naturais (commodities), além de títulos públicos e privados. A BM&FBovespa faz parte da principal Bolsa de Valores do Brasil, que já chegou a ter 9 Bolsas. Porém, nada se compara à sua relevância em território nacional. '",
             "url":"https://blog.toroinvestimentos.com.br/bmf-o-que-e-bolsa-de-mercadorias-futuros"
         },
         {
             "palavra": "Bolsa de valores",
-            "descricao": "'A bolsa de valores é um ambiente de negociações de valores mobiliários como ações, títulos públicos e commodities.   ",
+            "descricao": "' A bolsa de valores é um ambiente de negociações de valores mobiliários como ações, títulos públicos e commodities. '",
             "url":"https://riconnect.rico.com.vc/blog/bolsa-de-valores#:~:text=A%20bolsa%20de%20valores%20%C3%A9%20um%20ambiente%20de%20negocia%C3%A7%C3%B5es%20de,e%20vender%20fra%C3%A7%C3%B5es%20de%20empresas'"
         },
         {
             "palavra": "CAC 40",
-            "descricao": "'CAC 40, cujo nome deriva da expressão Cotation Assistée en Continu, é um índice bolsista que reúne as 40 maiores empresas cotadas em França.'",
+            "descricao": "' CAC 40, cujo nome deriva da expressão Cotation Assistée en Continu, é um índice bolsista que reúne as 40 maiores empresas cotadas em França. '",
             "url":"https://pt.wikipedia.org/wiki/CAC_40#:~:text=CAC%2040%2C%20cujo%20nome%20deriva,maiores%20empresas%20cotadas%20em%20Fran%C3%A7a"
         },
         {
             "palavra": "CDI",
-            "descricao": "'Os Certificados de Depósitos Interbancários são títulos emitidos pelos bancos como forma de captação ou aplicação de recursos excedentes. Criado em meados da década de 1980, os CDIs são aplicações com prazos de 1 dia útil, com objetivo de melhorar a liquidez de uma determinada instituição financeira. É que um título de empréstimo emitido de um banco para outro.'",
+            "descricao": "' Os Certificados de Depósitos Interbancários são títulos emitidos pelos bancos como forma de captação ou aplicação de recursos excedentes. Criado em meados da década de 1980, os CDIs são aplicações com prazos de 1 dia útil, com objetivo de melhorar a liquidez de uma determinada instituição financeira. É que um título de empréstimo emitido de um banco para outro. '",
             "url":"https://pt.wikipedia.org/wiki/Certificado_de_Dep%C3%B3sito_Interbanc%C3%A1rio#:~:text=Os%20Certificados%20de%20Dep%C3%B3sitos%20Interbanc%C3%A1rios,de%20uma%20determinada%20institui%C3%A7%C3%A3o%20financeira"
         },
         {
             "palavra": "CDI diário",
-            "descricao": "'Considerando que os empréstimos entre bancos precisam ser pagos em 24 horas, a taxa CDI é calculada diariamente pela B3 (a bolsa de valores oficial do Brasil) a partir das operações feitas no dia. É dessa taxa calculada diariamente que nasce o CDI diário. A partir dele, são calculadas médias mensais e anuais do CDI, que são consideradas para o rendimento dos investimentos de renda fixa.'",
+            "descricao": "' Considerando que os empréstimos entre bancos precisam ser pagos em 24 horas, a taxa CDI é calculada diariamente pela B3 (a bolsa de valores oficial do Brasil) a partir das operações feitas no dia. É dessa taxa calculada diariamente que nasce o CDI diário. A partir dele, são calculadas médias mensais e anuais do CDI, que são consideradas para o rendimento dos investimentos de renda fixa. '",
             "url":"https://blog.nubank.com.br/o-que-e-100-do-cdi/"
         },
         {
             "palavra": "Coinbase",
-            "descricao": "'A Coinbase é uma casa de câmbio digital com sede em São Francisco, Califórnia. A empresa intermedia trocas de Bitcoin, Bitcoin Cash, Ethereum, Ethereum Classic, Litecoin, Tezos e muitas outras criptomoedas, com moedas fiduciárias em aproximadamente 32 países e transações e armazenamento de Bitcoin em 190 países em todo o mundo.'",
+            "descricao": "' A Coinbase é uma casa de câmbio digital com sede em São Francisco, Califórnia. A empresa intermedia trocas de Bitcoin, Bitcoin Cash, Ethereum, Ethereum Classic, Litecoin, Tezos e muitas outras criptomoedas, com moedas fiduciárias em aproximadamente 32 países e transações e armazenamento de Bitcoin em 190 países em todo o mundo. '",
             "url":"https://pt.wikipedia.org/wiki/Coinbase"
         },
         {
             "palavra": "Foxbit",
-            "descricao": " 'A Foxbit é uma corretora brasileira de Bitcoin e outras criptomoedas. Ela faz a intermediação de compra e venda de moedas digitais, com saques e depósitos em Reais e criptomoedas. Atua no mercado financeiro brasileiro desde 2014.'",
+            "descricao": " ' A Foxbit é uma corretora brasileira de Bitcoin e outras criptomoedas. Ela faz a intermediação de compra e venda de moedas digitais, com saques e depósitos em Reais e criptomoedas. Atua no mercado financeiro brasileiro desde 2014. '",
             "url":"https://pt.wikipedia.org/wiki/Foxbit"
         },
         {
             "palavra": "Mercado Bitcoin",
-            "descricao": "'Mercado Bitcoin é uma corretora brasileira que realiza serviços de intermediação de compra e venda de criptomoedas por meio de uma plataforma online onde são feitas negociações e transações com Bitcoin, Ether, XRP, Bitcoin Cash, Litecoin e outros criptoativos, além de depósitos e saques em Reais.'",
+            "descricao": "' Mercado Bitcoin é uma corretora brasileira que realiza serviços de intermediação de compra e venda de criptomoedas por meio de uma plataforma online onde são feitas negociações e transações com Bitcoin, Ether, XRP, Bitcoin Cash, Litecoin e outros criptoativos, além de depósitos e saques em Reais. '",
             "url":"https://pt.wikipedia.org/wiki/Mercado_Bitcoin"
         },
         {
             "palavra": "NASDAQ Stock Market",
-            "descricao": "'NASDAQ Stock Market ou simplesmente NASDAQ é um mercado de ações automatizado norte-americano onde estão listadas mais de 2 800 ações de diferentes empresas, em sua maioria de pequena e média capitalização. É o segundo maior mercado de ações em capitalização de mercado do mundo, depois da Bolsa de Nova York.'",
+            "descricao": "' NASDAQ Stock Market ou simplesmente NASDAQ é um mercado de ações automatizado norte-americano onde estão listadas mais de 2 800 ações de diferentes empresas, em sua maioria de pequena e média capitalização. É o segundo maior mercado de ações em capitalização de mercado do mundo, depois da Bolsa de Nova York. '",
             "url":"https://www.wikiwand.com/pt/NASDAQ"
         },
         {
             "palavra": "Nikkei 225",
-            "descricao": "'Nikkei 225 ou Nikkei Stock Average, mais comumente chamado de índice Nikkei ou Nikkei é um índice do mercado de ações da Bolsa de Valores de Tóquio. É calculado diariamente pelo jornal Nihon Keizai Shimbun desde 1950.'",
+            "descricao": "' Nikkei 225 ou Nikkei Stock Average, mais comumente chamado de índice Nikkei ou Nikkei é um índice do mercado de ações da Bolsa de Valores de Tóquio. É calculado diariamente pelo jornal Nihon Keizai Shimbun desde 1950. '",
             "url":"https://pt.wikipedia.org/wiki/Nikkei_225#:~:text=Nikkei%20225%20ou%20Nikkei%20Stock,(The%20Nikkei)%20desde%201950"
         },
         {
             "palavra": "Selic",
-            "descricao": "'Selic é a taxa básica de juros da economia brasileira. Basicamente, ela influencia todas as demais taxas de juros do Brasil, como as cobradas em empréstimos, financiamentos e até de retorno em aplicações financeiras.'",
+            "descricao": "' Selic é a taxa básica de juros da economia brasileira. Basicamente, ela influencia todas as demais taxas de juros do Brasil, como as cobradas em empréstimos, financiamentos e até de retorno em aplicações financeiras. '",
             "url":"https://blog.nubank.com.br/taxa-selic/"
         }
     ]
